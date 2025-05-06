@@ -31,10 +31,5 @@ Dieses Projekt implementiert die Fibonacci-Folge in Java. Die Fibonacci-Folge is
 
 ## Funktionen
 
-- Berechnung der Fibonacci-Folge bis zu einer bestimmten Anzahl von Elementen
-- Benutzerfreundliche Konsoleneingabe
+- Berechnung der Fibonacci-Folge bis zu einer vorgegebenen Anzahl von Elementen
 - Ausgabe der berechneten Fibonacci-Zahlen
-
-## Lizenz
-
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. 
